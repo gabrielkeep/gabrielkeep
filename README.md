@@ -1,7 +1,7 @@
 ## Olá eu sou Gabriel
 
 - 👋 Tenho interesse na área de dados
-- 👀 Atualmente estou estudandando estatística com python
+- 👀 Atualmente estou estudandando python para ciência de dados
 - 💞️ I’m looking to collaborate on ...
 - 📫 Você pode me encontrar no e-mail gabrielhsbarreto@gmail.com e no linkedin www.linkedin.com/in/gabrielhsbarreto
 
