@@ -1,7 +1,7 @@
 ## Olá eu sou Gabriel
 
-- 📊 Tenho interesse em ciência de dados
-- 💻 Atualmente estou estudando Machine Learning e Apache Spark
+- 📊 Tenho interesse em ciência de dados e análise de dados
+- 💻 Atualmente estou estudando Business Intelligence
 - 📫 Você pode me encontrar no e-mail gabrielhsbarreto@gmail.com ou linkedin www.linkedin.com/in/gabrielhsbarreto
 
 <!---
