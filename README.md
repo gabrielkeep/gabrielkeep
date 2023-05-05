@@ -1,5 +1,5 @@
 # Olá, eu sou Gabriel
-- 📊 Entusiasta em dados
+- 📊 Entusiasta na dados
 - 💻 Aluno da Alura
 - 😎 Estudando Business Intelligence
 - 🎓 Gestão Empresarial FATEC-ZL
