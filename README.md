@@ -1,5 +1,5 @@
 # Olá, eu sou Gabriel
-- 📊 Entusiasta na dados
+- 📊 Apaixonado por dados
 - 💻 Aluno da Alura
 - 😎 Estudando HTML, CSS e Data Engineering
 - 💼 Atualmente trabalhando na construção de uma site e realizando análises de BI
