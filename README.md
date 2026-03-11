@@ -1,6 +1,5 @@
 # Olá, eu sou Gabriel
-- 📊 Apaixonado por dados
-- 💻 Aluno da Alura
+- 📊 Business Analyst - Experian
+- 💻 Deep Learning Enthusiast
 - 😎 Estudando HTML, CSS e Data Engineering
-- 💼 Atualmente trabalhando na construção de uma site e realizando análises de BI
 - 📫 Você pode me encontrar no e-mail gabrielhsbarreto@gmail.com ou linkedin www.linkedin.com/in/gabrielhsbarreto
