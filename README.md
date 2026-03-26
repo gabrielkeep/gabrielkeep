@@ -1,2 +1,2 @@
-Business Analyst - Serasa Experian
-Deep Learning Ethusiast
+- Business Analyst - Serasa Experian
+- Deep Learning Ethusiast
